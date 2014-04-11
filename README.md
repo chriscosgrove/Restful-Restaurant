@@ -1,4 +1,0 @@
-Restful-Restaurant
-==================
-
-Restaurant API
